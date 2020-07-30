@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'font_awesome_5_brandsregular';
+    src: url('font_awesome_5_brands-regular-400-webfont.woff2') format('woff2'),
+         url('font_awesome_5_brands-regular-400-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'font_awesome_5_freeregular';
+    src: url('font_awesome_5_free-regular-400-webfont.woff2') format('woff2'),
+         url('font_awesome_5_free-regular-400-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'font_awesome_5_freesolid';
+    src: url('font_awesome_5_free-solid-900-webfont.woff2') format('woff2'),
+         url('font_awesome_5_free-solid-900-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'latoblack';
+    src: url('lato-black-webfont.woff2') format('woff2'),
+         url('lato-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'trend_sansfour';
+    src: url('trendsansfour-webfont.eot');
+    src: url('trendsansfour-webfont.eot?#iefix') format('embedded-opentype'),
+         url('trendsansfour-webfont.woff2') format('woff2'),
+         url('trendsansfour-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'futuralightlight';
+    src: url('futuralight-light_allfont.ru-webfont.eot');
+    src: url('futuralight-light_allfont.ru-webfont.eot?#iefix') format('embedded-opentype'),
+         url('futuralight-light_allfont.ru-webfont.woff2') format('woff2'),
+         url('futuralight-light_allfont.ru-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
